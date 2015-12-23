@@ -157,21 +157,21 @@ def CATEGORIES10101(name, iconimage, desc, fanart):
 	addDir(localize(137),'שיר',3,'http://files.softicons.com/download/system-icons/web0.2ama-icons-by-chrfb/png/128x128/Search.png',addonString_servicefeatherence(23).encode('utf-8') % (addonString(2).encode('utf-8')),'1',"", getAddonFanart(background, custom=""))
 	
 	'''קליפים ישראליים אקראי'''
-	list = []
+        list = []
 	list.append('&youtube_pl=PLjUpwHk7giaiaSeSzZ4Alqj8cGQB6rPEk')
 	list.append('&youtube_pl=PLjUpwHk7giaj910tIRA-XTqx6HJA7tPUi') 
-	#list.append('&youtube_pl=PL46129841F86EDCCB4')
-	list.append('&youtube_pl=FLw_JTl5vBNd_ILZsGOecXmQ')
+	list.append('&youtube_pl=PLMBWuOHdmnkVMWQPhsDrW8-CBDULZCZBs')
+	list.append('&youtube_pl=PL14DEF7F458F87106')
 	list.append('&youtube_pl=PLB97405B96D068FC6')
 	list.append('&youtube_pl=PL8B8D8008EC2AEC94')
 	list.append('&youtube_pl=PL87E8D450A93CD471')
 	list.append('&youtube_pl=PLC5599CB5B12761ED')
 	list.append('&youtube_pl=PL8E141F3BEC23F14D')
 	list.append('&youtube_pl=PL99BA4ED06D054C29')	
-	list.append('&youtube_pl=PLB1AAF2963CBAEF82')
+	list.append('&youtube_pl=PL9Gon_AjOkEn_FukpDDpj0Rr1eViCv2GW')
 	list.append('&youtube_pl=PLB262A552C2351091')
 	list.append('&youtube_pl=PLjf7D2X0WebGDn5SI4OZls5u0iiXdEKPg')
-	list.append('&youtube_pl=PLjUpwHk7giaj910tIRA-XTqx6HJA7tPUi') 
+	list.append('&youtube_pl=PLNbmMRXzthLXm03oQByLaTg13B2DnKmoO') 
 	list.append('&youtube_pl=PLWvtqTEJL_PecfYvYdEhXvijvSas9ocp5')
 	list.append('&youtube_pl=PLD_zAoRa9UcA4U7jHXTx3hDF3om7zM5jd')
 	list.append('&youtube_pl=PLzzwAvFoE3KfG0eR0kCdUjEiEbOIUpvZb')
@@ -182,6 +182,7 @@ def CATEGORIES10101(name, iconimage, desc, fanart):
 	list.append('&youtube_pl=PLDMFOZKyoCX0EMCapcK2qW7X3mxjs52Xw')	
 	list.append('&youtube_pl=PL1sns8HoY1uKuGp9ze9f5W410VleGhAZ-')
 	list.append('&youtube_pl=PL6CcUVzFqqcVNcscz560ZsaxhWrQOrWXH')
+	list.append('&youtube_pl=PLJMr7SUc_s0uwSDYvFDSF3Nsv1pBsEKgo')
 	addDir(localize(590),list,17,'http://reallifeglobal.com/wp-content/uploads/2012/06/music.jpg?467a33',addonString(590).encode('utf-8'),'1',"http://reallifeglobal.com/wp-content/uploads/2012/06/music.jpg?467a33", getAddonFanart(background, custom=""))
 	
 	'''אביתר בנאי'''
